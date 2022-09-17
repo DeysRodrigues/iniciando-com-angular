@@ -9,5 +9,5 @@ export class SegundoComponenteComponent {
 
   nome = "João";
   dataNascimento = "2001-03-11";
-  urlImagem
+  urlImagem = "/assets/joaum.jpg";
 }
